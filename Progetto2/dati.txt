@@ -1,0 +1,6 @@
+[
+ Titolo libro: Il Conte di Montecristo || Autore: Alexandre Dumas || Genere: storico || Data pubblicazione: 1815-03-03, 
+ Titolo rivista: Mag44 || Periodicità: SETTIMANALE || Data pubblicazione: 2022-03-04, 
+ Titolo libro: Alla ricerca del tempo perduto || Autore: Marcel Proust || Genere: filosofico || Data pubblicazione: 1920-03-04, 
+ Titolo rivista: errr || Periodicità: SETTIMANALE || Data pubblicazione: 2343-03-04, 
+ Titolo rivista: r || Periodicità: SEMESTRALE || Data pubblicazione: 4555-04-05]
